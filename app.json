@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "NewProject",
+    "slug": "NewProject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,14 +22,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.AwesomeProject.AwesomeProject"
+      "package": "com.NewProject.NewProject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "4f7090fd-b763-423e-9d47-df5e382f5ded"
+        "projectId": "b4af4eea-0bd1-4f5b-9d08-2c6e43013c18"
       }
     }
   }
